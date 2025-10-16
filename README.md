@@ -21,13 +21,14 @@ Welcome to my **AI, Machine Learning, and Deep Learning portfolio** — a curate
 
 ---
 
-## 🚀 Highlighted Projects (Coming Soon)
+## 🚀 Highlighted Projects
 
 | Category | Project | Description |
 |-----------|----------|-------------|
-| ML | Heatwave Prediction using Regression | Modeling temperature patterns and heatwave trends across Tamil Nadu |
-| DL | CNN for Image Classification | Deep learning model trained on custom dataset |
-| ML | AQI and Health Risk Prediction | Data-driven model analyzing air pollution impact on health |
+| 🌧️ ML | [Rainfall Prediction Classifier](ML/Rainfall_Prediction_Classifier.ipynb) | Predicting rainfall occurrence using classification algorithms on meteorological datasets. |
+| 🧠 DL | [Image Classification and Captioning](DL/Final_Project_Classification_and_Captioning.ipynb) | Combining CNNs and RNNs to classify images and generate descriptive captions. |
+| 🧩 DL | [Convolutional Neural Networks in Keras](DL/DL0101EN-4-1-Convolutional-Neural-Networks-with-K.ipynb) | Building CNN models with Keras for image recognition and feature extraction. |
+| 💬 NLP | [Transformers with Keras](DL/DL0101EN-4-1-Transformers-with-Keras-py-v1.ipynb) | Implementing Transformer architecture for sequence modeling and NLP applications. |
 
 ---
 
