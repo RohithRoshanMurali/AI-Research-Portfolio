@@ -18,6 +18,7 @@ Welcome to my **AI, Machine Learning, and Deep Learning portfolio** — a curate
 ## 📘 Certifications
 - [Microsoft AI & ML Engineering Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-ai-and-ml-engineering)
 - [IBM Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
+- [IBM Deep Learning with PyTorch, Keras and Tensorflow](https://coursera.org/share/ff093e77b6ab22faf850c59e37f5bead)
 
 ---
 
